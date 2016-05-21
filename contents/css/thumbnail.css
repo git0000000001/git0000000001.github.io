@@ -1,0 +1,32 @@
+
+/* CSS Document */
+html{
+/*This property is valid for IE only...*/
+scrollbar-face-color:#353535;
+scrollbar-track-color:#353535;
+scrollbar-arrow-color:#040404;
+scrollbar-highlight-color:#474747;
+scrollbar-shadow-color:#292929;
+scrollbar-3dlight-color:#5C5C5C;
+scrollbar-darkshadow-color:#1A1A1A;
+}
+/*Thumbnail*/
+body{
+background-color:#000000;
+}
+#thumbs{
+position:absolute;
+top:0px;
+left:0px;
+margin-top:2px;
+margin-left:2px;
+margin-right:2px;
+}
+
+td.ca{
+	background-color:#728D00;
+	color:#CCFE00;
+	font-family:Arial,Verdana;
+	font-size:12px;
+	text-align:center;
+}

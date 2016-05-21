@@ -1,0 +1,106 @@
+/* CSS Document */
+/* for needs format*/
+
+#tEnvNeeds{
+	height:38px;
+	background-color:#232323;
+	color:#FFFFFF;
+	font-family:Arial,Verdana;
+	font-size:30px;
+	padding: 1px 20px;
+}
+
+#tConsNeeds{
+	height:30px;
+	background-color:#232323;
+	color:#FFFFFF;
+	font-family:Arial,Verdana;
+	font-size:30px;
+	/*padding: 0px 20px;*/
+	padding:20px 20px;
+}
+
+#lContNeeds{
+
+	display:inline;
+	float:left;
+	width:470px;
+}
+#rContNeeds{
+	display:inline;
+	float:left;
+	width:430px;
+}
+.des{
+	height:434px;
+	background-color:#353535;
+	overflow:auto;
+	font-family:Arial,Verdana;
+	font-size:12px;
+	line-height:16px;
+	color:#A8A8A8;
+	padding: 20px 30px;
+}
+
+.emp{
+	background-color:#6600CC;
+}
+/* for japanese BVS */
+.bvsSet{
+	margin:0px 18px;
+}
+.bvsSign{
+	width:108px;
+	float:left;
+	background-color:#040404;
+}
+.bvsTop{
+	clear:both;
+	width:863px;
+	height:17px;
+	background-color:#2B2B2B;
+	text-align:center;
+	font-family:Arial, Verdana;
+	font-size:12px;
+	color:#FFFFFF;
+	padding-top:2px;
+}
+
+.bvsCnt{
+	width:108px;
+	display:inline;
+	float:left;
+}
+.bvsTip{
+	width:107px;
+	height:12px;
+}
+.bvsCat{
+	width:107px;
+	height:22px;
+	background-color:#2B2B2B;
+	font-family:Arial,Verdana;
+	font-size:12px;
+	color:#FFFFFF;
+	text-align:center;
+	padding-top:10px;
+}
+.bvsPict{
+	width:107px;
+	height:195px;
+}
+.bvsStat{
+	width:87px;
+	height:104px;
+	background-color:#2B2B2B;
+	font-family:Arial,Verdana;
+	padding:12px 10px;
+	color:#FFFFFF;
+	font-size:12px;
+}
+.bvsVal{
+	color:#92B500;
+	font-size:24px;
+}
+
+

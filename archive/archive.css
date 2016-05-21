@@ -1,0 +1,134 @@
+/* CSS Document */
+/*For common format*/
+html{
+/*This property is valid for IE only...*/
+scrollbar-face-color:#2A2A2A;
+scrollbar-track-color:#2A2A2A;
+scrollbar-arrow-color:#040404;
+scrollbar-highlight-color:#373737;
+scrollbar-shadow-color:#202020;
+scrollbar-3dlight-color:#414141;
+scrollbar-darkshadow-color:#191919;
+}
+
+
+#outline{
+position:absolute;
+top:0px;
+left:0px;
+width:900px;
+height:600px;
+background-color:#000000;
+}
+
+
+
+#header{
+position:absolute;
+top:0px;
+left:20px;
+width:860px;
+height:67px;
+background-color:#232323;
+}
+
+
+#main{
+overflow-x: hidden;
+overflow-y: autol;
+position:absolute;
+top:67px;
+left:20px;
+width:860px;
+height:520px;
+background-color:#00FF00;
+}
+
+
+#contA{
+width:860px;
+height:260px;
+background-color:#353535;
+}
+
+
+#contB{
+width:860px;
+height:260px;
+background-color:#464646;
+}
+
+
+#right{
+width:430px;
+float: right;
+}
+
+
+#left{
+width:430px;
+float: left;
+
+}
+
+
+.title {
+		font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size:18px;
+	margin-left: 20px;
+	margin-top: 30px;
+	
+}
+
+.category{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #bdbdbd;
+	font-size:11px;
+	line-height: 10px;
+
+	}
+
+
+.filename{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #bdbdbd;
+	font-size:11px;
+	
+	}
+	
+	
+.description{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #bdbdbd;
+	font-size:11px;
+	line-height: 10px;
+	
+	}
+	
+.wrap{
+
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	line-height: 14px;
+	
+	
+	}
+
+
+
+a:link{
+color:#FFFFFF;
+text-decoration:none;
+}
+a:visited{
+color:#FFFFFF;
+text-decoration:none;
+}
+a:hover{
+color:#676767;
+text-decoration:none;
+}

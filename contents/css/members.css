@@ -1,0 +1,66 @@
+/* CSS Document */
+/*For main member pages*/
+/*Format for left side of member page*/
+#left{
+width:379px;
+background-color:#232323;
+float:left;
+clear:both;
+}
+.name{
+height:45px;
+margin-top:16px;
+margin-bottom:9px;
+margin-left:20px;
+font-family:Arial, Verdana;
+font-size:32px;
+letter-spacing:1px;
+color:#FFFFFF;
+}
+.picture{
+height:363px;
+}
+
+/*Format for right side of member page*/
+#right{
+width:520px;
+background-color:#353535;
+float:right;
+}
+
+/*Part of Information*/		
+#information{
+width:520px;
+height:434px;
+float:right;
+}
+table.Tlayout{
+font-family:Arial, Verdana;
+font-size:11px;
+line-height:16px;
+color:#A8A8A8;
+margin-top:30px;
+margin-left:24px;
+/*border-spacing:12px 26px;*/
+}
+td.topics{
+width:134px;
+font-weight:bold;
+vertical-align:text-top;
+/*background-color:#00CC33;*/
+padding-top:0px;
+padding-bottom:26px;
+padding-right:12px;
+
+}
+td.contents{
+font-weight:normal;
+width:308px;
+/*float:left;*/
+vertical-align:text-top;
+/*background-color:#00CC33;*/
+/*margin-right:30px;*/
+padding-bottom:26px;
+}
+
+ÅQ

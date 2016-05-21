@@ -1,0 +1,51 @@
+<xmlData>
+  <daystart>6</daystart>
+  <nightstart>16</nightstart>
+  <news>
+  	<year>2008</year>
+	<month>10</month>
+	<day>6</day>
+  </news>
+ <key>
+  	<year>2008</year>
+	<month>10</month>
+	<day>6</day>
+  </key>
+  <links>
+  	<A>
+		<link1>contents/whoweare/intro.html</link1>
+		<link2>contents/whoweare/japan.html</link2>
+		<link3>contents/whoweare/market.html</link3>
+		<link4>contents/whoweare/mission.html</link4>
+		<link5>contents/whoweare/org_j.html</link5>
+		<link6>contents/whoweare/members.html</link6>
+	</A>
+	<B>
+		<link1>contents/needs/j_bvs/index.html</link1>
+		<link2>contents/needs/consumer/index.html</link2>
+		<link3>contents/needs/brand/index.html</link3>
+		<link4>contents/needs/environment/environment.html</link4>
+		<link5></link5>
+	</B>
+	<C>
+		<link1>contents/idea_g/idea_screening/index.html</link1>
+		<link2>contents/idea_g/idea_source/index.html</link2>
+		<link3>contents/idea_g/idea_generation/index.html</link3>
+	</C>
+	<D>
+		<link1>#</link1>
+	</D>
+	<E>
+		<link1>contents/project_l/p_coming.html</link1>
+	</E>
+	<F>
+		<innovation>#</innovation>
+		<signout>#</signout>
+		<email>dai.oinuma@gmail.com</email>
+		<archive>archive/archive.html</archive>
+	</F>
+  </links>
+  
+  
+  
+</xmlData>

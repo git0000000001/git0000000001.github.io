@@ -1,0 +1,95 @@
+/* CSS Document */
+/* for idea screening format*/
+
+#tIdeaSo{
+	height:32px;
+	background-color:#232323;
+	color:#FFFFFF;
+	font-family:Arial,Verdana;
+	font-size:30px;
+	padding: 24px 20px;
+}
+
+#Cont{
+	color:#A8A8A8;
+	font-family:Arial,Verdana;
+	font-size:12px;
+	background-color:#353535;
+	height:345px;
+}
+.pcn{
+	text-align:center;
+	padding-top:12px;
+}
+	
+.plf{
+	display:inline;
+	float:left;
+	padding-left:20px;
+	padding-top:20px;
+}
+.pcf{
+	display:inline;
+	float:left;
+	padding-left:6px;
+	padding-top:20px;
+}
+
+.dlf{
+	display:inline;
+	float:left;
+	padding-left:20px;
+	padding-top:10px;
+}
+.dcf{
+	display:inline;
+	float:left;
+	padding-left:6px;
+	padding-top:10px;
+}
+
+.ilf{
+	display:inline;
+	float:left;
+	padding-left:20px;
+	padding-top:40px;
+}
+.icf{
+	display:inline;
+	float:left;
+	padding-left:6px;
+	padding-top:40px;
+}
+.ii{
+	display:inline;
+	float:left;
+	padding-left:15px;
+	padding-top:2px;
+	text-align:center;
+}
+.is{
+	display:inline;
+	float:left;
+	width:14px;
+}
+.vlf{
+	display:inline;
+	float:left;
+	padding-left:20px;
+	padding-top:70px;
+}
+.vcf{
+	display:inline;
+	float:left;
+	padding-left:6px;
+	padding-top:70px;
+}
+
+.tc{
+	text-align:center;
+	padding-top:8px;
+}
+.tlf{
+	padding-left:10px;
+	width:240px;
+}

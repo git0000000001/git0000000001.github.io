@@ -1,0 +1,113 @@
+/* CSS Document */
+/* for Brand needs format*/
+
+#tBrand{
+	height:30px;
+	background-color:#232323;
+	color:#FFFFFF;
+	font-family:Arial,Verdana;
+	font-size:24px;
+	padding: 5px 20px;
+}
+
+#mCnt{
+	height:385px;
+	background-color:#232323;
+	color:#FFFFFF;
+	font-family:Arial,Verdana;
+	font-size:12px;
+}
+
+#CntA{
+	margin-left:20px;
+	display:inline;
+	float:left;
+	padding:2px;
+}
+
+#CntB{
+	display:inline;
+	float:left;
+	padding:2px;
+}
+
+#CntC{
+	display:inline;
+	float:left;
+	padding:2px;
+}
+
+#CntD{
+	display:inline;
+	float:left;
+	padding:2px;
+
+}
+
+
+.tblx{
+width:299px;
+height:168px;
+padding:10px;
+}
+
+.tbly{
+width:309px;
+height:178px;
+padding-top:10px;
+padding-left:10px;
+}
+
+.tbls{
+width:112px;
+height:168px;
+padding:10px;
+}
+
+.tblt{
+width:112px;
+height:168px;
+padding:10px;
+}
+
+.tblp{
+width:92px;
+height:370px;
+padding-top:10px;
+padding-left:10px;
+
+}
+
+.tblv{
+width:220px;
+height:360px;
+padding:10px;
+}
+
+.tblw{
+width:340px;
+height:380px;
+}
+.str{
+	padding:12px;
+	padding-bottom:24px;
+}
+
+.iss{
+vertical-align:top;
+background-color:#738E01;
+}
+.ist{
+padding:6px;
+background-color:#8DAF00;
+}
+
+ul { 
+margin: 0 0 0 16px; 
+padding: 0; 
+}
+
+.spc4{
+height:4px;
+}
+

@@ -1,0 +1,61 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="40"/>
+ </o:shapelayout><p:colorscheme
+  colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00"/>
+ <v:background id="_x0000_s40961" o:bwmode="white" fillcolor="white [0]">
+  <v:fill color2="#339 [5]"/>
+ </v:background><p:shaperange id="_x0000_s40962">
+  <v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
+   o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_s40962" type="#_x0000_t75" style='position:absolute;
+   left:535.75pt;top:502.125pt;width:181.375pt;height:36.75pt' o:userdrawn="t"
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:imagedata src="master03_image001.wmz" o:title=""/>
+   <v:shadow color="gray [2]"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s40965">
+  <v:line id="_x0000_s40965" style='position:absolute' from="0,502.5pt" to="10in,502.5pt"
+   o:userdrawn="t" strokecolor="black [1]">
+   <v:shadow color="gray [2]"/>
+  </v:line></p:shaperange>
+ <p:shaperange id="_x0000_s40966">
+  <v:shape id="_x0000_s40966" type="#_x0000_t75" style='position:absolute;
+   left:0;top:412.5pt;width:10in;height:89.75pt' o:userdrawn="t" fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:imagedata src="master05_image003.wmz" o:title="" croptop="52841f"/>
+   <v:shadow color="gray [2]"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s40967">
+  <v:shape id="_x0000_s40967" type="#_x0000_t75" style='position:absolute;
+   left:12pt;top:130.375pt;width:297.75pt;height:264.375pt' o:userdrawn="t">
+   <v:imagedata src="master05_image004.png" o:title=""/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s40968">
+  <v:shape id="_x0000_s40968" type="#_x0000_t75" style='position:absolute;
+   left:6pt;top:63.125pt;width:320pt;height:110.625pt' o:userdrawn="t">
+   <v:imagedata src="master05_image005.png" o:title=""/>
+  </v:shape></p:shaperange>
+</xml>
